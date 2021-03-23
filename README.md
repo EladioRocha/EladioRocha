@@ -7,10 +7,7 @@ I like to always be thinking about how things can be done more efficiently. Of c
 - 🌱 I’m currently learning Machine Learning 
 - 👯 I’m looking to collaborate on Project with real utility for people. 
 
-
-[<img src='https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Youtube-256.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC-uaU5oLN-xrHeKWzWeo0Hw/videos)  
-[<img src='https://cdn3.iconfinder.com/data/icons/social-media-circle-6/1024/circle-10-256.png' alt='website' height='40'>](http://eladiorocha.me/)  
-[<img src='https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-256.png' alt='stackoverflow' height='40'>](https://es.stackoverflow.com/users/177151/eladio-rocha-vizcaino)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC-uaU5oLN-xrHeKWzWeo0Hw/videos)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://eladiorocha.me/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://es.stackoverflow.com/users/177151/eladio-rocha-vizcaino)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EladioRocha&show_icons=true)  
 
