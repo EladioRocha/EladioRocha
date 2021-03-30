@@ -3,7 +3,7 @@
 
 I like to always be thinking about how things can be done more efficiently. Of course, everything with automatization and software.
 
-- 🔭 I’m currently working on Hydroponic System 
+- 🔭 I’m currently working on Aeroponic System (agrotechnology) 
 - 🌱 I’m currently learning Machine Learning 
 - 👯 I’m looking to collaborate on Project with real utility for people. 
 
