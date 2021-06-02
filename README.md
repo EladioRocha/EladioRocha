@@ -10,7 +10,7 @@ I like to always be thinking about how things can be done more efficiently. Of c
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EladioRocha&show_icons=true)  
 
-Actually I´m adding readme to repositories. 
+Actually I´m adding and updating readme to repositories. 
 
 <!--
 **EladioRocha/EladioRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
