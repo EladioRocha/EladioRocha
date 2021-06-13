@@ -3,7 +3,7 @@
 
 I like to always be thinking about how things can be done more efficiently. Of course, everything with automatization and software.
 
-- 🌱 I’m currently learning Machine Learning 
+- 🌱 I’m currently learning Data Science 
 - 👯 I like to collaborate on Project with real utility for people. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC-uaU5oLN-xrHeKWzWeo0Hw/videos)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://eladiorocha.me/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://es.stackoverflow.com/users/177151/eladio-rocha-vizcaino)  
