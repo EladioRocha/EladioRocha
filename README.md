@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eladiorocha" alt="eladiorocha" /></a> </p>
 
-- 🔭 I’m currently working on personal project called [Quadivi.com](https://quadivi.com/)
+- 🔭 I’m currently working on personal project for a algorithmic traders [QuantCore.com](https://quantcore.io/)
 
 - 👯 I’m looking to collaborate on **Projects that empower people.**
-
-- 📫 How to reach me **eladio.rocha99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
