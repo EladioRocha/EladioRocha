@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eladiorocha" alt="eladiorocha" /></a> </p>
 
-- 🔭 I’m currently working on personal project for a algorithmic traders [QuantCore.com](https://quantcore.io/)
+- 🔭 I’m currently working on personal project for a algorithmic traders [QuantCore.io](https://quantcore.io/)
 
 - 👯 I’m looking to collaborate on **Projects that empower people.**
 
