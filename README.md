@@ -26,12 +26,8 @@
 - 🎓 Educated in Data Science from Coder House and Software Engineering from Queretano University.
 - 🌍 Currently open to Internships or new job opportunities in software development or machine learning fields.
 
-
-[Personal website](https://eladiorocha.com)
-
-<br>
-
-[View my resume](https://drive.google.com/file/d/1Ju5prgb6UhejmbdEnQ7P9Wx0Du_4Xbvy/view)
+![Personal website]("https://eladiorocha.com")
+![View my resume]("https://drive.google.com/file/d/1Ju5prgb6UhejmbdEnQ7P9Wx0Du_4Xbvy/view")
 
 <br><br>
 
@@ -55,13 +51,14 @@
     ![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
     ![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
     ![Next.js](https://img.shields.io/badge/Next.js%20-%23000000.svg?style=for-the-badge&logo=next-dot-js&logoColor=white)
+    ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 <br>
 
 - **Cloud and Hosting**:
 
     ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-    ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+    ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 <br>
 
@@ -69,6 +66,9 @@
 
     ![NoSQL](https://img.shields.io/badge/NoSQL-%2300F.svg?style=for-the-badge&logo=nosql&logoColor=white)
     ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
 
