@@ -137,6 +137,16 @@
 <ul>
 
 <li>
+<a href="https://www.youtube.com/c/eladiorochav" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-%20eladiorochav-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="margin-bottom: 5px;" />
+</a>
+</li>
+
+<br>
+
+<br>
+
+<li>
 <a href="https://linkedin.com/in/eladiorocha" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  eladiorocha-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
