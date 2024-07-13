@@ -19,7 +19,6 @@
 
 - 📊 Proficient in Python, JavaScript, TypeScript, and modern frameworks like React, Node.js, and NestJS.
 - 💡 Skilled in developing machine learning models, with a focus on using pre-trained models from Hugging Face for efficient deployment.
-- 🛠️ Technical lead on projects involving sentiment analysis, vehicle classification, and credit risk scoring, achieving high accuracy and performance metrics.
 - 👨‍💻 Software developer roles at companies like DaCodes and Sagaon Tech, with experience in backend development, e-commerce tool innovation, and system design.
 - 📝 Active contributor in Scrum environments, advocating for continuous improvement and efficient project management.
 - 🌐 Fluent in Spanish and English, with advanced proficiency in multiple programming languages and technologies.
