@@ -147,9 +147,9 @@
 <br>
 
 <li>
-<a href="https://linkedin.com/in/eladiorocha" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  eladiorocha-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
+  <a href="https://linkedin.com/in/eladiorocha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-eladiorocha-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" style="margin-bottom: 5px;"/>
+  </a>
 </li>
 
 <br>
