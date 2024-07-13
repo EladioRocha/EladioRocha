@@ -148,7 +148,7 @@
 
 <li>
 <a href="mailto:contacto@eladiorocha.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  eladiorocha-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Email-%20contacto@eladiorocha.com-%23333.svg?style=for-the-badge&logo=Mail.Ru&logoColor=white" style="margin-bottom: 5px;" />
 </a>
 </li>
 	
