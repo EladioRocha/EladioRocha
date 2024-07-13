@@ -25,9 +25,9 @@
 - 🎓 Educated in Data Science from Coder House and Software Engineering from Queretano University.
 - 🌍 Currently open to Internships or new job opportunities in software development or machine learning fields.
 
-[Personal website]("https://eladiorocha.com")
+<a href="https://eladiorocha.com" target="_blank">Personal website</a>
 
-[View my resume]("https://drive.google.com/file/d/1Ju5prgb6UhejmbdEnQ7P9Wx0Du_4Xbvy/view")
+<a href="https://drive.google.com/file/d/1Ju5prgb6UhejmbdEnQ7P9Wx0Du_4Xbvy/view" target="_blank">View my resume</a>
 
 <br><br>
 
