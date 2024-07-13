@@ -83,6 +83,7 @@
     ![Scikit-learn](https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
     ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
     ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+    ![Hugging Face](https://img.shields.io/badge/Hugging_Face-%23F7931E.svg?style=for-the-badge&logo=Huggingface&logoColor=white)
 
 <br>
 
