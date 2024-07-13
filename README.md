@@ -26,6 +26,7 @@
 - 🌍 Currently open to Internships or new job opportunities in software development or machine learning fields.
 
 [Personal website]("https://eladiorocha.com")
+
 [View my resume]("https://drive.google.com/file/d/1Ju5prgb6UhejmbdEnQ7P9Wx0Du_4Xbvy/view")
 
 <br><br>
