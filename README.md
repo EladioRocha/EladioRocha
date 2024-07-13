@@ -17,13 +17,12 @@
 
 <br>
 
-- 📊 Proficient in Python, JavaScript, TypeScript, and modern frameworks like React, Node.js, and NestJS.
-- 💡 Skilled in developing machine learning models, with a focus on using pre-trained models from Hugging Face for efficient deployment.
-- 👨‍💻 Software developer roles at companies like DaCodes and Sagaon Tech, with experience in backend development, e-commerce tool innovation, and system design.
-- 📝 Active contributor in Scrum environments, advocating for continuous improvement and efficient project management.
-- 🌐 Fluent in Spanish and English, with advanced proficiency in multiple programming languages and technologies.
-- 🎓 Educated in Data Science from Coder House and Software Engineering from Queretano University.
-- 🌍 Currently open to Internships or new job opportunities in software development or machine learning fields.
+- 📊 **Advanced Proficiency in Programming Languages & Frameworks:** Skilled in Python, JavaScript, TypeScript, with extensive experience using frameworks like React, Node.js, and NestJS.
+- 💡 **Expertise in Machine Learning & AI:** Developed multiple machine learning models at Anyone.AI, including sentiment analysis and vehicle classification systems, achieving high accuracy and efficiency. Proficient in leveraging pre-trained models from Hugging Face for rapid deployment and enhanced performance.
+- 👨‍💻 **Diverse Software Development Experience:** Held key software developer roles at Anyone.AI, DaCodes, and Sagaon Tech, leading backend development, innovating e-commerce tools, and designing scalable systems. Demonstrated ability in a variety of settings from startups to established tech firms.
+- 🌐 **Language Skills & Global Perspective:** Fluent in Spanish and English, offering a valuable blend of technical expertise and multicultural communication skills.
+- 🎓 **Solid Educational Background:** Holds degrees in Data Science from Coder House and Software Engineering from Queretano University.
+- 🌍 **Open to New Opportunities:** Actively seeking freelance or full-time positions in software development or machine learning, eager to bring analytical skills and technical knowledge to innovative teams.
 
 <a href="https://eladiorocha.com" target="_blank">Personal website</a>
 
