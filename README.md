@@ -7,7 +7,6 @@
 Ingeniero de software · Creador · Emprendedor
 
 [![Sitio web](https://img.shields.io/badge/eladiorocha.com-3478F6?style=for-the-badge)](https://eladiorocha.com)
-[![YouTube](https://img.shields.io/badge/YouTube-111318?style=for-the-badge&logo=youtube&logoColor=F5F1E8)](https://youtube.com/@eladiorochav)
 [![Contacto](https://img.shields.io/badge/Hablemos-FF7043?style=for-the-badge)](mailto:contacto@eladiorocha.com)
 
 </div>
@@ -75,11 +74,27 @@ a su utilidad, sus límites y el trabajo necesario para mantenerlos.
 Puedes encontrarme en [eladiorocha.com](https://eladiorocha.com)
 o escribirme a **[contacto@eladiorocha.com](mailto:contacto@eladiorocha.com)**.
 
-[YouTube](https://youtube.com/@eladiorochav) ·
-[LinkedIn](https://linkedin.com/in/eladiorocha) ·
-[X](https://x.com/eladiorochav) ·
-[Instagram](https://instagram.com/eladiorochav) ·
-[TikTok](https://www.tiktok.com/@eladio_rocha)
+<p align="center">
+  <a href="https://youtube.com/@eladiorochav">
+    <img src="https://cdn.simpleicons.org/youtube/3478F6" alt="YouTube" width="28" height="28">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/eladiorocha">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="28" height="28">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/eladiorochav">
+    <img src="https://cdn.simpleicons.org/x/3478F6" alt="X" width="28" height="28">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/eladiorochav">
+    <img src="https://cdn.simpleicons.org/instagram/3478F6" alt="Instagram" width="28" height="28">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@eladio_rocha">
+    <img src="https://cdn.simpleicons.org/tiktok/3478F6" alt="TikTok" width="28" height="28">
+  </a>
+</p>
 
 ---
 
