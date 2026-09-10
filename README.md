@@ -1,102 +1,55 @@
-<div align="center">
-
 # Eladio Rocha
 
-### Construyo. Pruebo. Comparto.
+### Build. Test. Share.
 
-Ingeniero de software · Creador · Emprendedor
+**Software engineer · Creator · Entrepreneur**
 
-[![Sitio web](https://img.shields.io/badge/eladiorocha.com-3478F6?style=for-the-badge)](https://eladiorocha.com)
-[![Contacto](https://img.shields.io/badge/Hablemos-FF7043?style=for-the-badge)](mailto:contacto@eladiorocha.com)
+[Website](https://eladiorocha.com) · [Contact](mailto:contacto@eladiorocha.com)
 
-</div>
+I'm a Mexican software engineer working across technology, artificial intelligence, digital products, and business.
 
----
+I build applications, connect services, and automate processes. I like understanding how a system works, the problem it solves, and what it takes to bring it into production. This profile brings together things I build, test, and learn along the way.
 
-Soy Eladio Rocha, ingeniero de software mexicano. Trabajo en la
-intersección entre tecnología, inteligencia artificial, productos
-digitales y negocio.
+## Projects and work
 
-Construyo aplicaciones, integro servicios y automatizo procesos.
-Me interesa entender cómo funciona un sistema, qué problema resuelve
-y qué necesita para llegar a producción.
+### Rochair — Ecommerce
 
-Este espacio reúne parte de lo que construyo, pruebo y aprendo.
-
-## En lo que estoy trabajando
-
-### Rochair · Ecommerce
-
-Desarrollo un ecommerce de perfumes inspirados que conecta la tienda
-en línea con una red de vendedores. Un proyecto que me permite trabajar
-en producto, tecnología y operación de un negocio propio.
+I'm building an inspired-fragrance ecommerce business that connects an online store with a network of sellers. It brings together product development, software, and the day-to-day operations of my own business.
 
 **Next.js · Shopify · PostgreSQL**
 
-[Conocer Rochair →](https://rochair.mx/)
+[Explore Rochair](https://rochair.mx/)
 
-### Secuoian · Fintech agrícola
+### Secuoian — Agricultural fintech
 
-Colaboro en la infraestructura, el frontend del backoffice y el dashboard
-del exportador de una fintech agrícola con IA. Mi trabajo incluye
-integraciones y automatización de procesos.
+I contribute to infrastructure, the backoffice frontend, and the exporter dashboard of an AI-powered agricultural fintech. My work includes service integrations and process automation.
 
 **Next.js · Node.js · Python · Azure · Firebase · PostgreSQL**
 
-[Conocer Secuoian →](https://secuoia.earth)
+[Explore Secuoian](https://secuoia.earth)
 
-## Otras experiencias
+## Other experience
 
-- **Scale AI:** evaluación y comparación de respuestas de modelos de IA,
-  incluida la generación de código, mediante prompts, pruebas y
-  retroalimentación humana.
-- **Inter:** desarrollo de backend con microservicios e integración
-  de pasarelas de pago para el sector de seguros.
-- **Sagaon Tech:** desarrollo de herramientas de ecommerce y mantenimiento
-  de plataformas internas.
-- **FBASE.tv:** automatización de la obtención y actualización de datos
-  con Node.js y tareas programadas.
+- **Scale AI:** evaluating and comparing AI model responses, including generated code, through prompts, testing, and human feedback.
+- **Inter:** developing backend microservices and integrating payment gateways for the insurance industry.
+- **Sagaon Tech:** building ecommerce tools and maintaining internal platforms.
+- **FBASE.tv:** automating data collection and updates with Node.js and scheduled jobs.
 
-[Ver proyectos y contribuciones →](https://eladiorocha.com/#proyectos)
+[More projects and contributions](https://eladiorocha.com/#proyectos)
 
-## Cómo trabajo
+## How I work
 
-- Empiezo por entender el problema y el contexto.
-- Construyo algo que pueda probar y llevar a producción.
-- Reviso qué funciona, qué falla y qué vale la pena mejorar.
-- Documento decisiones y aprendizajes que puedan servirle a alguien más.
+- Understand the problem and its context before choosing the tools.
+- Build something that can be tested and put into production.
+- Review what works, what fails, and what is worth improving.
+- Document decisions and lessons that others can use.
 
-Me interesa aplicar IA en herramientas y procesos concretos, con atención
-a su utilidad, sus límites y el trabajo necesario para mantenerlos.
+I'm interested in applying AI to practical tools and workflows, with attention to usefulness, limitations, and ongoing maintenance.
 
-## Conectemos
+## Connect
 
-Puedes encontrarme en [eladiorocha.com](https://eladiorocha.com)
-o escribirme a **[contacto@eladiorocha.com](mailto:contacto@eladiorocha.com)**.
+Visit [eladiorocha.com](https://eladiorocha.com) or email [contacto@eladiorocha.com](mailto:contacto@eladiorocha.com).
 
-<p align="center">
-  <a href="https://youtube.com/@eladiorochav">
-    <img src="https://cdn.simpleicons.org/youtube/3478F6" alt="YouTube" width="28" height="28">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/eladiorocha">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="28" height="28">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/eladiorochav">
-    <img src="https://cdn.simpleicons.org/x/3478F6" alt="X" width="28" height="28">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/eladiorochav">
-    <img src="https://cdn.simpleicons.org/instagram/3478F6" alt="Instagram" width="28" height="28">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@eladio_rocha">
-    <img src="https://cdn.simpleicons.org/tiktok/3478F6" alt="TikTok" width="28" height="28">
-  </a>
-</p>
+[YouTube](https://youtube.com/@eladiorochav) · [LinkedIn](https://linkedin.com/in/eladiorocha) · [X](https://x.com/eladiorochav) · [Instagram](https://instagram.com/eladiorochav) · [TikTok](https://www.tiktok.com/@eladio_rocha)
 
----
-
-> No se trata de saberlo todo. Se trata de construir, probar y compartir
-> lo aprendido.
+> Keep building, testing, and sharing what you learn.
