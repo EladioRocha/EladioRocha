@@ -12,7 +12,7 @@ I build applications, connect services, and automate processes. I like understan
 
 ## Projects and work
 
-### Rochair — Ecommerce
+### Rochair - Ecommerce
 
 I'm building an inspired-fragrance ecommerce business that connects an online store with a network of sellers. It brings together product development, software, and the day-to-day operations of my own business.
 
@@ -20,7 +20,7 @@ I'm building an inspired-fragrance ecommerce business that connects an online st
 
 [Explore Rochair](https://rochair.mx/)
 
-### Secuoian — Agricultural fintech
+### Secuoian - Agricultural fintech
 
 I contribute to infrastructure, the backoffice frontend, and the exporter dashboard of an AI-powered agricultural fintech. My work includes service integrations and process automation.
 
